@@ -6,9 +6,17 @@ Universidad Tecnológica Nacional - Facultad Regional Mendoza
 
 # Dependencias necesarias
 
-´
+```
 npm install bootstrap jquery popper.js font-awesome ngx-pagination
-´
+```
+
+# Backend Repository:
+
+[https://github.com/Florsalcedowd/tp5lab4back](https://github.com/Florsalcedowd/tp5lab4back)
+
+# Base de datos:
+
+Crear base de datos "instrumentosDB" e importar [instrumentosDB.sql](https://github.com/Florsalcedowd/tp5lab4front/blob/master/instrumentosDB.sql)
 
 ----------------------------------------------------------------------------------------------------
 
